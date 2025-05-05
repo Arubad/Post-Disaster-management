@@ -1,4 +1,4 @@
-# GoogleSolutions_2 – Image Metadata and Face Recognition Toolkit
+# GoogleSolutions – Image Metadata and Face Recognition Toolkit
 
 This Jupyter Notebook combines facial recognition and image metadata analysis using DeepFace, Google Vision API, and various geolocation tools.
 
